@@ -65,7 +65,8 @@
 .orbImage {
   pointer-events: none;
   position: relative !important;
-  height: 115px !important;
+  height: 120px !important;
+  width: 130px !important;
   object-fit: 'cover';
   margin-bottom: 5px;
 }
@@ -88,8 +89,8 @@
 .glow {
   position: absolute;
   top: 10;
-  width: 50px;
-  height: 50px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   z-index: -1;
   animation: pulse 2s infinite;
