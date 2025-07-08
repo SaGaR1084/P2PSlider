@@ -23,8 +23,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
-  max-width: 430px;
+  width: 430px;
   height: 70px;
   padding: 0 25px;
   color: var(--active-text-color, #fff);
@@ -113,6 +112,10 @@
 }
 
 @media screen and (max-width: 480px) {
+  .track {
+    width: 380px;
+  }
+
   .labelGroup {
     font-size: 0.85rem;
   }
