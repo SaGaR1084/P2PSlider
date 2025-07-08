@@ -157,7 +157,6 @@ const P2PSlider = ({ onAccept, onDecline }) => {
                 alt="Slider Orb"
                 src={currentImages.button}
                 className={styles.orbImage}
-                sizes="(max-width: 768px) 100vw, 50px"
               />
 
               {/* ---- Glowing Aura (only when not sliding) ---- */}
