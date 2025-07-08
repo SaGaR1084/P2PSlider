@@ -111,19 +111,3 @@
     box-shadow: 0 0 25px 10px var(--glow-color), 0 0 40px 15px var(--glow-rgba);
   }
 }
-
-@media screen and (max-width: 480px) {
-  .labelGroup {
-    font-size: 0.85rem;
-  }
-
-  .orbImage {
-    height: 90px !important;
-  }
-
-  .arrowWrapper img,
-  .arrowWrapper .lottie {
-    width: 28px !important;
-    height: 24px !important;
-  }
-}
