@@ -65,7 +65,7 @@
 .orbImage {
   pointer-events: none;
   position: relative !important;
-  height: 120px !important;
+  height: 105px !important;
   width: 130px !important;
   object-fit: 'cover';
   margin-bottom: 5px;
